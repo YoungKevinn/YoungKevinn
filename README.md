@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin :wave:
 
-- I'm currently majoring in CyberSecurity  :zap:
+- I'm majoring in CyberSecurity  :zap:
 - I'am Offensive Security enthusiast, CTF Competitor :zap:
 - I'm interested in Web Exploitation, Pwnable  :zap:
 
